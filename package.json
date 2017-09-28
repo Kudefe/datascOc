@@ -1,0 +1,9 @@
+{
+  "name": "opencritic-input-service",
+  "version": "1.0.0",
+  "description": "Data input microservice that scrapes all reviews from Opencritic for a game ",
+  "main": "index.js",
+  "repository": "https://github.com/Kudefe/datascOc.git",
+  "author": "gonzalo",
+  "license": "MIT"
+}
